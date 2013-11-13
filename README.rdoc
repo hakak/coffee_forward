@@ -1,0 +1,4 @@
+Howdy fellow programmer,
+Welcome to Benny "The Hack Apprentice" Hakak ReadMe page. 
+The Masters of Digital Media  (MDM) 2013/2014 cohort is currently developing a fantastic new app, called “Coffee Forward”. This app will enable its users (my fellow MDM classmates ) to treat each other, by sending “coffee gift cards” via a intra social network. 
+If you need further information, please contact Vince “The Hack Master” Duquette at Ryerson’s DMZ.
