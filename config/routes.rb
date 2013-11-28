@@ -3,6 +3,10 @@ CoffeePrograms::Application.routes.draw do
 
   get "gifts/new"
 
+resources :gifts
+
+root :to => "gifts#index"  
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
